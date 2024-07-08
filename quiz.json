@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of mobile device operating systems.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which OS is made by Google?",
+      "answers": ["Android", "iOS", "Harmony"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which OS is used in iPhones?",
+      "answers": ["iOS", "Android", "Windows"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which OS is known for its tiles interface?",
+      "answers": ["Windows", "iOS", "Android"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS is developed by Huawei?",
+      "answers": ["Harmony", "iOS", "Android"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS was used in Blackberry phones?",
+      "answers": ["BB OS", "Symbian", "Android"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS is open-source?",
+      "answers": ["Android", "iOS", "Windows"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS is known for its security?",
+      "answers": ["iOS", "Android", "Symbian"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS uses the App Store?",
+      "answers": ["iOS", "Android", "Harmony"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS is made by Samsung?",
+      "answers": ["Tizen", "iOS", "Android"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which OS was developed by Nokia?",
+      "answers": ["Symbian", "iOS", "Windows"],
       "correctAnswerIndex": 0
     }
   ]
